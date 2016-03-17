@@ -1,0 +1,1 @@
+{"version":3,"sources":["primitive string.js"],"names":[],"mappings":";;;;;;;;;;;AAIA,uBAAa,uCAAb,oGAA2B;QAAnB,gBAAmB;;AACvB,YAAQ,GAAR,CAAY,CAAZ,EADuB;GAA3B","file":"primitive string-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/17/2016.\r\n */\r\n\r\nfor(var c of \"Hello World\"){\r\n    console.log(c);\r\n}\r\n"]}
