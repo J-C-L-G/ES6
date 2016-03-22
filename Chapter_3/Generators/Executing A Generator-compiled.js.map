@@ -1,0 +1,1 @@
+{"version":3,"sources":["Executing A Generator.js"],"names":[],"mappings":";;eAIU;;;;;;AAAV,SAAU,GAAV;;;;;;;;;;;;AAEA,IAAI,WAAW,KAAX","file":"Executing A Generator-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/22/2016.\r\n */\r\n\r\nfunction *foo(){}\r\n\r\nvar iterator = foo();"]}
