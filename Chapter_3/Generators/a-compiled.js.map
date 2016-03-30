@@ -1,0 +1,1 @@
+{"version":3,"sources":["a.js"],"names":[],"mappings":";;;;;;AAIA,OAAO,OAAP,GAAiB;AACb,KAAI,EAAJ;CADJ","file":"a-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/29/2016.\r\n */\r\n\r\nmodule.exports = {\r\n    a : 42\r\n};\r\n\r\n"]}
