@@ -1,0 +1,1 @@
+{"version":3,"sources":["use both modules.js"],"names":[],"mappings":";;AAIA;;;;;;;;AAGA,QAAQ,GAAR,CAAY,iBAAI,EAAJ,CAAZ","file":"use both modules-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/30/2016.\r\n */\r\n\r\nimport foo from \"./a\";\r\n//import bar from \"./b\";\r\n\r\nconsole.log(foo(15));\r\n//console.log(bar(5));\r\n"]}

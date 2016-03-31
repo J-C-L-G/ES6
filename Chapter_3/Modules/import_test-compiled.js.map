@@ -1,0 +1,1 @@
+{"version":3,"sources":["import_test.js"],"names":[],"mappings":";;AAIA;;AAEA;;;;AACA,QAAQ,GAAR;AACA,QAAQ,GAAR","file":"import_test-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/30/2016.\r\n */\r\n\r\nimport { foo as fooFunc, bar, baz} from \"foo\";\r\n\r\nfoo();\r\nconsole.log(bar);\r\nconsole.log(baz);"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["new.target.js"],"names":[],"mappings":";;;;;;;;IAIM,MACF,SADE,GACF,GAAa;0BADX,KACW;;AACT,YAAQ,GAAR,CAAY,OAAZ,EADS;CAAb","file":"new.target-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 3/31/2016.\r\n */\r\n\r\nclass Foo{\r\n    constructor(){\r\n        console.log('Foo: ')\r\n    }\r\n}"]}
