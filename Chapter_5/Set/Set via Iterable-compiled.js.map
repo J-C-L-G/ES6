@@ -1,0 +1,1 @@
+{"version":3,"sources":["Set via Iterable.js"],"names":[],"mappings":";;;;;;AAIA,IAAI,IAAI,IAAI,GAAJ,CAAQ,CAAC,CAAD,EAAG,CAAH,CAAR,CAAJ;AACJ,QAAQ,GAAR,CAAY,EAAE,IAAF,CAAZ","file":"Set via Iterable-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 4/1/2016.\r\n */\r\n\r\nvar s = new Set([1,2]);\r\nconsole.log(s.size);"]}
