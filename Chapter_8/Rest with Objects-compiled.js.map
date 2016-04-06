@@ -1,0 +1,1 @@
+{"version":3,"sources":["Rest with Objects.js"],"names":[],"mappings":";;;;;;;;;;AAIA,IAAI,MAAM,EAAC,GAAG,CAAH,EAAM,GAAG,CAAH,EAAM,GAAG,CAAH,EAAnB;AACJ,qBAAQ,GAAR,oCAAe,IAAf","file":"Rest with Objects-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 4/6/2016.\r\n */\r\n\r\nvar obj = {a: 1, b: 2, c: 3};\r\nconsole.log(...obj);"]}
