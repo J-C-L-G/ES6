@@ -1,0 +1,1 @@
+{"version":3,"sources":["new.target.js"],"names":[],"mappings":";;;;;;;;IAIM,SACF,SADE,MACF,GAAa;0BADX,QACW;CAAb","file":"new.target-compiled.js","sourcesContent":["/**\r\n * Created by JCLG on 4/5/2016.\r\n */\r\n\r\nclass Parent {\r\n    constructor(){\r\n        \r\n    }\r\n}"]}
